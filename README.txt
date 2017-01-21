@@ -1,0 +1,4 @@
+-----------------------------------------Recomendation Engien:----------------------------------------------
+------------------------------------Using Collaborative Filter Model----------------------------------------
+
+Use UsrData.txt for adding user input.MovieData.txt contains Movie id and its name.Rate the ovie from 0 to 5 in usrData.txt. Enter Movie id 'tab'Movie rating(0-5). Every Movie on a new lin('\n').Both Parameters Should be integers.Enter User data for 15-20 movies use MovieData.txt as refference.Run the program to get a list with first element as movie id and second as approx ratting.
